@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1629911747 source:c:\users\pc\desktop\domino2\domino2\domimodel.c
+	"domiModel.h"
+	"domiView.h"
+	<string.h>
+	<time.h>
+
+1629910485 c:\users\pc\desktop\domino2\domino2\domimodel.h
+	<stdbool.h>
+
+1629911469 source:c:\users\pc\desktop\domino2\domino2\domiview.c
+	<stdio.h>
+	<ctype.h>
+	"domiModel.h"
+	"domiView.h"
+
+1629831107 c:\users\pc\desktop\domino2\domino2\domiview.h
+	"domiModel.h"
+
+1629322041 source:c:\users\pc\desktop\domino2\domino2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"domiController.h"
+
+1629321642 c:\users\pc\desktop\domino2\domino2\domicontroller.h
+	<stdbool.h>
+	"domiModel.h"
+	"domiView.h"
+
+1629910414 source:c:\users\pc\desktop\domino2\domino2\domicontroller.c
+	"domiController.h"
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
+1629322041 source:c:\users\pc\desktop\dominoall\domino2\domino2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"domiController.h"
+
+1629321642 c:\users\pc\desktop\dominoall\domino2\domino2\domicontroller.h
+	<stdbool.h>
+	"domiModel.h"
+	"domiView.h"
+
+1630535642 c:\users\pc\desktop\dominoall\domino2\domino2\domimodel.h
+	<stdbool.h>
+
+1630536622 c:\users\pc\desktop\dominoall\domino2\domino2\domiview.h
+	"domiModel.h"
+
+1630536622 source:c:\users\pc\desktop\dominoall\domino2\domino2\domicontroller.c
+	"domiController.h"
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
+1629921576 source:c:\users\pc\desktop\dominoall\domino2\domino2\domiview.c
+	<stdio.h>
+	<ctype.h>
+	"domiModel.h"
+	"domiView.h"
+
+1630536106 source:c:\users\pc\desktop\dominoall\domino2\domino2\domimodel.c
+	"domiModel.h"
+	"domiView.h"
+	<string.h>
+	<time.h>
+
+1631472768 source:c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domicontroller.c
+	"domiController.h"
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
+1631453447 c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domicontroller.h
+	<stdbool.h>
+	"domiModel.h"
+	"domiView.h"
+
+1631468179 c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domimodel.h
+	<stdbool.h>
+
+1631468270 c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domiview.h
+	"domiModel.h"
+
+1631471244 source:c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domiview.c
+	<stdio.h>
+	<ctype.h>
+	"domiModel.h"
+	"domiView.h"
+
+1631453412 source:c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	"domiController.h"
+
+1631472218 source:c:\users\lguit\onedrive\documentos\puc\2 semestre\nova pasta\nova pasta\downloads\domimodel.c
+	"domiModel.h"
+	"domiView.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1631453412 source:c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\main.c
+	<stdio.h>
+	<stdlib.h>
+	"domiController.h"
+
+1631453447 c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domicontroller.h
+	<stdbool.h>
+	"domiModel.h"
+	"domiView.h"
+
+1631468179 c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domimodel.h
+	<stdbool.h>
+
+1631794496 c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domiview.h
+	"domiModel.h"
+
+1631794011 source:c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domiview.c
+	<stdio.h>
+	<ctype.h>
+	"domiModel.h"
+	"domiView.h"
+
+1631789788 source:c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domicontroller.c
+	"domiController.h"
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
+1631794398 source:c:\users\lguit\onedrive\documentos\puc\domino (1)\domino\domimodel.c
+	"domiModel.h"
+	"domiView.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1632356010 source:c:\users\pc\downloads\dominoetapa\domicontroller.c
+	"domiController.h"
+	<stdio.h>
+	<ctype.h>
+	<stdbool.h>
+
+1631453447 c:\users\pc\downloads\dominoetapa\domicontroller.h
+	<stdbool.h>
+	"domiModel.h"
+	"domiView.h"
+
+1632360881 c:\users\pc\downloads\dominoetapa\domimodel.h
+	<stdbool.h>
+
+1632360881 c:\users\pc\downloads\dominoetapa\domiview.h
+	"domiModel.h"
+
+1632362306 source:c:\users\pc\downloads\dominoetapa\domimodel.c
+	"domiModel.h"
+	"domiView.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1632360881 source:c:\users\pc\downloads\dominoetapa\domiview.c
+	<stdio.h>
+	<ctype.h>
+	"domiModel.h"
+	"domiView.h"
+
+1631453412 source:c:\users\pc\downloads\dominoetapa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"domiController.h"
+
